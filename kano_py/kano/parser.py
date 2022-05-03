@@ -95,8 +95,6 @@ class ConfigParser:
 
 def main():
    cp = ConfigParser()
-   #cp.parse('/home/h3yin/cs219_network_verification/Kubernetes-verification/kano_py/sample/policy.yaml')
-   #cp.parse('/home/h3yin/cs219_network_verification/Kubernetes-verification/kano_py/sample/pod.yaml')
    cp.parse('data')
 
    cp.print_all()
