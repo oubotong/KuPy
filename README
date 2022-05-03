@@ -1,4 +1,4 @@
 KuPy
 
 An effcient implementation of [Kano: Efficient Container Network Policy Verification] in Python.
-For individual test, please step into the kano folder for unitest.
+For individual test, please step into the kano folder for unittest.
