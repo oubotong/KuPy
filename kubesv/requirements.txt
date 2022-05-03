@@ -1,0 +1,7 @@
+sphinx
+nose
+dataclasses
+typing_extensions
+z3-solver
+kubernetes
+pprint
